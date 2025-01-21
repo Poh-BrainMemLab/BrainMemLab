@@ -2,7 +2,6 @@
 name: Jia Hou Poh
 image: images/JH_Poh_Head.jpg
 role: principal-investigator
-affiliation: National University of Singapore
 aliases:
   - JH Poh
 links:
