@@ -1,14 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Jia Hou Poh
+image: images/JH_Poh_Head.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: National University of Singapore
 aliases:
-  - J. Smith
-  - J Smith
+  - JH Poh
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-1985-2110
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
