@@ -1,7 +1,7 @@
 ---
 name: Melo Poh
 image: images/MeloPoh.jpg
-role: Lab Mascot
+role: mascot
 group: alum
 links:
   github: john-doe
