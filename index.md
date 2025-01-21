@@ -1,9 +1,8 @@
 ---
 ---
 
-# Poh-BrainMemLab's Website
+# Dynamic brain & Memory Lab
 
-An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
