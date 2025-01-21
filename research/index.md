@@ -1,24 +1,25 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# 2024
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+* **Poh, J. H.**, & Adcock, R. A. (2024). Interactions between memory and reward systems.[[pdf]][link1]
+
+[link1]:https://github.com/Poh-BrainMemLab/BrainMemLab/tree/main/assets/pdf/HsiungEtAl_PNAS_2023.pdf
 
 {% include section.html %}
 
-## Highlighted
+## 2023
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## All
+## 2022
 
 {% include search-box.html %}
 
