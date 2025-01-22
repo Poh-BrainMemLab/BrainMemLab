@@ -7,21 +7,73 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html %}
 
-## Featured
+{% capture text %}
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{%
+  include button.html
+  link="projects"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-{% include section.html %}
+{% endcapture %}
 
-## More
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Motivation, Curiosity, and Learning"
+  flip=true
+  style="bare"
+  text=text
+%}
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% capture text %}
+
+
+{%
+  include button.html
+  link="team"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Brain states and information processing"
+  text=text
+%}
+
+{% capture text %}
+
+
+{%
+  include button.html
+  link="team"
+  text="Learn more"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Enhancing human cognition with neurofeedback"
+  text=text
+%}
+
+
