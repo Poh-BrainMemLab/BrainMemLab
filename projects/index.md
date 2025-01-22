@@ -21,7 +21,6 @@ nav:
 {%
   include feature.html
   image="images/photo.jpg"
-  title=
   flip=true
   style="bare"
   text=text
@@ -39,7 +38,6 @@ nav:
 {%
   include feature.html
   image="images/photo.jpg"
-  title= 
   text=text
 %}
 
@@ -55,7 +53,6 @@ nav:
 {%
   include feature.html
   image="images/photo.jpg"
-  title=
   flip=true
   style="bare"
   text=text
