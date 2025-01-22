@@ -30,10 +30,7 @@ nav:
 
 {% capture col2 %}
 
-{%
-  include figure.html
-  image="images/NUSLogo.jpg"
-%}
+<img src="images/NUSLogo.jpg">
 
 {% endcapture %}
 
