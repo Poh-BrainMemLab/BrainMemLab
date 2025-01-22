@@ -10,7 +10,7 @@
   image: assets/papers/images/HsiungEtAl_PNAS_2023.jpg
   buttons:
     - type: pdf
-      link: assets/papers/pdf/HsiungEtAl_PNAS_2024.pdf
+      link: assets/papers/pdf/HsiungEtAl_PNAS_2023.pdf
 
 - id: doi:10.1038/s41467-022-34459-3
   type: paper
@@ -18,3 +18,80 @@
   buttons:
     - type: pdf
       link: assets/papers/pdf/PohEtAl_NatComms_2022.pdf
+
+- id: doi:10.1016/j.cognition.2020.104242
+  type: paper
+  image: assets/papers/images/MassarEtAl_Cognition_2020.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/MassarEtAl_Cognition_2020.pdf
+
+- id: doi:10.1523/JNEUROSCI.1451-18.2019
+  type: paper
+  image: assets/papers/images/ChongEtAl_JNeuro_2019.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/ChongEtAl_JNeuro_2019.pdf
+      
+- id: doi:10.3758/s13423-019-01595-9
+  type: paper
+  image: assets/papers/images/PohEtAl_PBR_2019.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/PohEtAl_PBR_2019.pdf
+
+- id: doi:10.1093/sleep/zsy240
+  type: paper
+  image: assets/papers/images/OngEtAl_Sleep_2018.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/OngEtAl_Sleep_2018.pdf
+
+- id: doi:10.1523/JNEUROSCI.0167-18.2018
+  type: paper
+  image: assets/papers/images/PohCousins_JNeuro_2018.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/PohCousins_JNeuro_2018.pdf
+
+- id: doi:10.1016/j.neuroimage.2018.04.014
+  type: paper
+  image: assets/papers/images/LiuEtAl_Neuroimage_2018.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/LiuEtAl_Neuroimage_2018.pdf
+
+- id: doi:10.1016/j.neuroimage.2017.01.080
+  type: paper
+  image: assets/papers/images/PohChee_Neuroimage_2017.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/PohChee_Neuroimage_2017.pdf
+
+- id: doi:10.1038/srep45532
+  type: paper
+  image: assets/papers/images/PohChee_SciRep_2017.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/PohChee_SciRep_2017.pdf
+
+- id: doi:10.1037/xge0000207
+  type: paper
+  image: assets/papers/images/PohChee_JEPG_2017.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/PohChee_JEPG_2017.pdf
+
+- id: doi:10.1016/j.concog.2015.12.007
+  type: paper
+  image: assets/papers/images/HonPoh_ConCog_2016.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/HonPoh_ConCog_2016.pdf
+
+- id: doi:10.1016/j.concog.2013.03.004
+  type: paper
+  image: assets/papers/images/HonPoh_ConCog_2016.jpg
+  buttons:
+    - type: pdf
+      link: assets/papers/pdf/HonEtAl_ConCog_2016.pdf
