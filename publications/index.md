@@ -5,5 +5,5 @@ nav:
   tooltip: Published works
 ---
 
-{% include list.html data="citations" component="citation" filters="book" style="rich" %}
+{% include list.html data="citations" component="citation" filter="type == 'book'" style="rich" %}
 
