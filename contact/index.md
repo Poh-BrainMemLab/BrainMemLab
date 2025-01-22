@@ -30,7 +30,7 @@ nav:
 
 {% capture col2 %}
 
-<img src="images/NUSLogo.jpg">
+<img src="https://github.com/Poh-BrainMemLab/BrainMemLab/blob/main/images/NUSLogo.jpg">
 
 {% endcapture %}
 
