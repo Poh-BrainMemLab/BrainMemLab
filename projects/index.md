@@ -19,7 +19,6 @@ nav:
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
   title="Motivation, Curiosity, and Learning"
   flip=true
   style="bare"
@@ -36,8 +35,9 @@ nav:
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
   title="Brain states and information processing"
+  flip=true
+  style="bare"
   text=text
 %}
 
@@ -51,8 +51,9 @@ nav:
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
   title="Enhancing human cognition with neurofeedback"
+  flip=true
+  style="bare"
   text=text
 %}
 
