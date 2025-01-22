@@ -6,7 +6,7 @@ nav:
 ---
 
 ## Journal Articles
-{% include list.html data="citations" component="citation" filter="type == 'paper'" style="rich" %}
+{% include list.html data="citations" component="citation" filter="type == 'paper'" %}
 
 ## Book Chapters & Commentaries
 {% include list.html data="citations" component="citation" filter="type == 'book'" style="rich" %}
