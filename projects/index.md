@@ -11,6 +11,8 @@ nav:
 
 {% capture text %}
 
+<h3 style="text-align:center; color:#328f7b; font-weight:bold">Motivation, curiosity, and learning</h3>
+
 * Our learning is often influenced by our motivational states. For example, we might be motivated to read a Neuroscience textbook because we are curious about the topic or we may be trying to memorise all the information for an upcoming exam. Such distinct motivational states that are overlaid on our learning experiences, can determine how we learn and what we remember.
 * Our work has shown that intrinsic motivation associated with curiosity can enhance memory formation and also increase the willingness to engage with the learning process. In ongoing work, we will examine how curiosity can be developed and fostered to support self-directed learning. We will also examine how different ‘forms’ of curiosity can drive information seeking to direct learning and memory formation. 
 
