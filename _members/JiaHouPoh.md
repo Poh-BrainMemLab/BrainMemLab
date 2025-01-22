@@ -1,18 +1,13 @@
 ---
-name: Jia Hou Poh
+name: Jia-Hou Poh
 image: images/JH_Poh_Head.jpg
 role: principal-investigator
 aliases:
   - JH Poh
 links:
-  home-page: https://janesmith.com
+  github: JiaHou-Poh 
   orcid: 0000-0002-1985-2110
+  scholar: https://scholar.google.com.sg/citations?user=zYrPBRYAAAAJ&hl=en&oi=ao
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Jia-Hou is a Research Assistant Professor at the [Center for Sleep and Cognition](https://medicine.nus.edu.sg/csc/) at the [National University of Singapore](https://nus.edu.sg/). He enjoys learning about how the brain learns, analyzing fights, and motivating his dog, [Melo](_members/MeloPoh.md) to walk. 
