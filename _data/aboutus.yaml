@@ -1,9 +1,17 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Our projects
+  subtitle: 
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: projects
+  description: Check out what we're working on!
   tags:
-    - resource
+    - projects
+
+- title: Our team
+  subtitle: 
+  group: featured
+  image: images/photo.jpg
+  link: team
+  description: Learn more about us!
+  tags:
+    - team
