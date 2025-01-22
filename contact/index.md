@@ -33,7 +33,6 @@ nav:
 {%
   include figure.html
   image="images/NUSLogo.jpg"
-  caption=
 %}
 
 {% endcapture %}
