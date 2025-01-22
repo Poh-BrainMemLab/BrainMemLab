@@ -9,6 +9,6 @@ At the Dynamic Brain and Memory Lab, our goal is to uncover the processes and ne
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" %}
+{% include list.html component="card" data="aboutus" %}
 
 
