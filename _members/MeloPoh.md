@@ -1,10 +1,9 @@
 ---
 name: Melo Poh
 image: images/MeloPoh.jpg
-role: mascot
-group: alum
+role: pup-dogtoral-fellow
 links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
