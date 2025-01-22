@@ -36,8 +36,6 @@ nav:
   include feature.html
   image="images/photo.jpg"
   title="Brain states and information processing"
-  flip=true
-  style="bare"
   text=text
 %}
 
