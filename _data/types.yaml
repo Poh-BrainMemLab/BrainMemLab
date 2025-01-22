@@ -71,7 +71,7 @@ search:
   tooltip: Search
 
 pdf:
-  icon: fa-solid fa-pdf-o
+  icon: fa-solid fa-file-pdf-o
   text: PDF
   tooltip: PDF
 
@@ -193,6 +193,11 @@ manubot:
   icon: manubot.svg
   text: Manubot
   tooltip: Manubot
+
+commentary:
+  icon: fa-regular fa-bullhorn
+  text: Commentary
+  tooltip: Commentary
 
 # software
 
