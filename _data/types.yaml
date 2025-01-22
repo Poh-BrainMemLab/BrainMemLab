@@ -71,7 +71,7 @@ search:
   tooltip: Search
 
 pdf:
-  icon: fa-solid fa-file-pdf-o
+  icon: fa-solid fa-eye
   text: PDF
   tooltip: PDF
 
