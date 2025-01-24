@@ -1,7 +1,7 @@
 - title: Our projects
   subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/Project_img.png
   link: projects
   description: Check out what we're working on!
   tags:
@@ -9,7 +9,7 @@
 - title: Our team
   subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/Team_img.png
   link: team
-  description: Learn more about us!
+  description: Meet the people behing the lab!
   tags:
