@@ -20,7 +20,7 @@ nav:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Motivation_Project.jpg"
   flip=true
   style="bare"
   text=text
