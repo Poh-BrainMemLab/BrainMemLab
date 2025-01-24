@@ -20,12 +20,10 @@ nav:
 
 {%
   include feature.html
-  image="images/Motivation_Project.jpg"
+  image="images/Motivation_Project.png"
   flip=true
   style="bare"
   text=text
-  width = 400
-  height = 400
 %}
 
 <h3 style="text-align:center; color:#328f7b; font-weight:bold">Brain states and information processing</h3>
