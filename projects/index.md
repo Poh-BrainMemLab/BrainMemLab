@@ -52,7 +52,7 @@ nav:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Neurofeedback_Project.png"
   flip=true
   style="bare"
   text=text
