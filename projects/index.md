@@ -37,7 +37,7 @@ nav:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/State_Project.png"
   text=text
 %}
 
