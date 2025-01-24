@@ -15,9 +15,9 @@ $wrap: 800px;
   flex-shrink: 0;
   width: 50%;
   aspect-ratio: 3 / 3;
-  border-radius: var(--rounded);
+  border-radius: 0;
   overflow: hidden;
-  box-shadow: var(--shadow);
+  box-shadow: 0 0 0 0;
 }
 
 .feature-image img {
