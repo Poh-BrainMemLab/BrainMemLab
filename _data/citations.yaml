@@ -15,6 +15,20 @@
     link: assets/papers/pdf/PohAdcock_Book_2024.pdf
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/scientificamerican092024-3KiFF3ZrXzE4vbUoQzCEoS
+  title: No Spoilers, Please!
+  authors:
+  - Abby Hsiung
+  - Alison Adcock
+  - Scott Huettel
+  - Jia-Hou Poh
+  publisher: Scientific American
+  date: '2024-09-01'
+  link: https://doi.org/g8233c
+  type: book
+  image: assets/papers/images/HsiungEtAl_SciAm_2024.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2301974120
   title: Curiosity evolves as information unfolds
   authors:
@@ -50,6 +64,26 @@
   buttons:
   - type: pdf
     link: assets/papers/pdf/PohEtAl_NatComms_2022.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.05.17.492355
+  title: 'Between heuristics and optimality: Flexible integration of cost and evidence
+    during information sampling'
+  authors:
+  - Abigail Hsiung
+  - John M. Pearson
+  - Jia-Hou Poh
+  - Shabnam Hakimi
+  - R. Alison Adcock
+  - Scott A. Huettel
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-19'
+  link: https://doi.org/g8233d
+  type: preprint
+  image: assets/papers/images/HsiungEtAl_BioArxiv_2022.jpg
+  buttons:
+  - type: pdf
+    link: assets/papers/pdf/HsiungEtAl_BioArxiv_2022.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cognition.2020.104242
@@ -141,7 +175,7 @@
   type: paper
   image: assets/papers/images/PohCousins_JNeuro_2018.jpg
   buttons:
-  - type: pdf
+  - type: book
     link: assets/papers/pdf/PohCousins_JNeuro_2018.pdf
   plugin: sources.py
   file: sources.yaml
