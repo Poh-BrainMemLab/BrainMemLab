@@ -172,10 +172,10 @@
   publisher: The Journal of Neuroscience
   date: '2018-04-25'
   link: https://doi.org/ggrvw4
-  type: paper
+  type: book
   image: assets/papers/images/PohCousins_JNeuro_2018.jpg
   buttons:
-  - type: book
+  - type: pdf
     link: assets/papers/pdf/PohCousins_JNeuro_2018.pdf
   plugin: sources.py
   file: sources.yaml
