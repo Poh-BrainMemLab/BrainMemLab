@@ -59,10 +59,10 @@
       link: assets/papers/pdf/OngEtAl_Sleep_2018.pdf
 
 - id: doi:10.1523/JNEUROSCI.0167-18.2018
-  type: paper
+  type: book
   image: assets/papers/images/PohCousins_JNeuro_2018.jpg
   buttons:
-    - type: book
+    - type: pdf
       link: assets/papers/pdf/PohCousins_JNeuro_2018.pdf
 
 - id: doi:10.1016/j.neuroimage.2018.04.014
