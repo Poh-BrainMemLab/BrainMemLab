@@ -1,7 +1,7 @@
 ---
 name: Melo Poh
 image: images/MeloPoh.jpg
-role: Dogtoral-fellow
+role: dogtoral-fellow
 links:
   github: john-doe
 ---
