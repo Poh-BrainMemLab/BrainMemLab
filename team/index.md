@@ -16,4 +16,5 @@ nav:
 
 <h3 style="text-align:center;">Join us!</h3>
 
-We are looking for **research assistants**, **graduate students**, and **postdoctoral fellows** to join our growing team. Interested candidates can email Jia-Hou at jiahou.poh[at]nus.edu.sg
+We are looking for **research assistants**, **graduate students**, and **postdoctoral fellows** to join our growing team. 
+Interested candidates can email Jia-Hou at jiahou.poh[at]nus.edu.sg
