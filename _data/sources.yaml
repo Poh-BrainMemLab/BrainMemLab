@@ -7,6 +7,11 @@
       link: assets/papers/pdf/PohAdcock_Book_2024.pdf
 
 - id: doi:10.1038/scientificamerican092024-3KiFF3ZrXzE4vbUoQzCEoS
+  authors:
+    - Abigail Hsiung
+    - Jia-Hou Poh
+    - Alison Adcock
+    - Scott Huettel
   type: book
   image: assets/papers/images/HsiungEtAl_SciAm_2024.jpg
 
