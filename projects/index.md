@@ -9,6 +9,21 @@ nav:
 
 {% include section.html %}
 
+<h3 style="text-align:center; color:#328f7b; font-weight:bold">Brain states and information processing</h3>
+
+{% capture text %}
+
+* Spontaneous fluctuations in brain states, associated with changes in the patterns of local and network activity, can determine how information is processed and propagated across different brain areas. These fluctuations in brain states may reflect intrinsic variation in internal states (e.g. vigilance, arousal, emotional state, motivational states), or could also reflect changes associated with alterations in brain anatomy (e.g. across development, aging, or neurodegeneration).
+* Our work has shown that memory formation can be influenced by the stability of brain activity, and by neuromodulatory influence of memory systems. Currently, we are examining how different motivations (e.g reward approach and punishment avoidance) can elicit distinct brain states to bias the modes of information-seeking and memory formation.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/State_Project.png"
+  text=text
+%}
+
 <h3 style="text-align:center; color:#328f7b; font-weight:bold">Motivation, curiosity, and learning</h3>
 
 {% capture text %}
@@ -23,21 +38,6 @@ nav:
   image="images/Motivation_Project.png"
   flip=true
   style="bare"
-  text=text
-%}
-
-<h3 style="text-align:center; color:#328f7b; font-weight:bold">Brain states and information processing</h3>
-
-{% capture text %}
-
-* Spontaneous fluctuations in brain states, associated with changes in the patterns of local and network activity, can determine how information is processed and propagated across different brain areas. These fluctuations in brain states may reflect intrinsic variation in internal states (e.g. vigilance, arousal, emotional state, motivational states), or could also reflect changes associated with alterations in brain anatomy (e.g. across development, aging, or neurodegeneration).
-* Our work has shown that memory formation can be influenced by the stability of brain activity, and by neuromodulatory influence of memory systems. Currently, we are examining how different motivations (e.g reward approach and punishment avoidance) can elicit distinct brain states to bias the modes of information-seeking and memory formation.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/State_Project.png"
   text=text
 %}
 
