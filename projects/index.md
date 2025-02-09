@@ -21,6 +21,8 @@ nav:
 {%
   include feature.html
   image="images/State_Project.png"
+  flip=true
+  style="bare"
   text=text
 %}
 
@@ -36,8 +38,6 @@ nav:
 {%
   include feature.html
   image="images/Motivation_Project.png"
-  flip=true
-  style="bare"
   text=text
 %}
 
