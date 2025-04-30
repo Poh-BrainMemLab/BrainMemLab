@@ -30,6 +30,10 @@ dogtoral-fellow:
   icon: fa-solid fa-dog
   description: Dogtoral Fellow
 
+research_assistant:
+  description: Research Assistant
+  icon: fa-solid fa-user-graduate 
+
 # general
 
 link:
