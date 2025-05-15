@@ -5,11 +5,11 @@ permalink: /join/
 ---
 # Join Our Team!
 
-We are looking to work with driven, talented individuals interested in the neuroscience of motivation, learning and curiosity. We hope to hear from you!
+We are looking to work with driven, talented individuals interested in the neuroscience of motivation, learning and curiosity. We hope to hear from you, and welcome you to join our growing team!
 
-## Students
-We would love to connect with **graduate students** and **interns**. Interested candidates can email Jia-Hou at jiahou.poh[at]nus.edu.sg
+## Graduate Students and Interns
+We would love to connect with **graduate students** and **interns**. Interested candidates can email Jia-Hou (jiahou.poh[at]nus.edu.sg) for discussion.
 
-## Full-Time Positions 
+## Careers 
 Unfortunately, we are currently **not hiring any further full-time Research Assistants**. Feel free to check in again for future opportunities!
 
