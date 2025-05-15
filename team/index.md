@@ -16,5 +16,5 @@ nav:
 
 <h3 style="text-align:center;">Join us!</h3>
 
-**We are currently not hiring full-time Research Assistants**. However, we would love to connect with propsective students and interns.<br> 
-Interested candidates can email Jia-Hou at jiahou.poh[at]nus.edu.sg
+**We are currently not hiring full-time Research Assistants**.<br>
+However, we would love to connect with propsective students and interns. Interested candidates can email Jia-Hou at jiahou.poh[at]nus.edu.sg
