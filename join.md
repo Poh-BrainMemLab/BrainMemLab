@@ -8,34 +8,24 @@ nav:
 ---
 # Join the Team
 
-We are looking for driven individuals interested in the neuroscience of motivation, learning and curiosity. We hope to hear from you, and welcome you to join our growing team!
+We are looking for driven individuals interested in the neuroscience of motivation, learning and curiosity to join our growing team! <br><br>
 
-## Undergraduate Interns
-We welcome motivated interns who are eager to gain hands-on experience and background in neuroscience research. Interested candidates can email Jia-Hou (jiahou.poh@nus.edu.sg) for discussion.
+Interested individuals should contact Jia-Hou for discussion (jiahou.poh[at]nus.edu.sg).
 
-## Careers 
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-      <th style="border: 1px solid black; padding: 10px; text-align: centre;">Positions</th>
-      <th style="border: 1px solid black; padding: 10px; text-align: centre;">Description</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Research Assistants</td>
-      <td style="border: 1px solid black; padding: 10px;">We are not hiring full-time Research Assistants at this moment.</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Postdoctoral Scholars / Research Associates</td>
-      <td style="border: 1px solid black; padding: 10px;">
-        We do not have specific funding available for postdoctoral positions at the moment.<br><br>
-        However, interested candidates are encouraged to email Jia-Hou
-        (<a href="mailto:jiahou.poh@nus.edu.sg">jiahou.poh@nus.edu.sg</a>) to discuss their research interests and potential pathways for funding.
-        We’re open to collaborative efforts or joint grants to support postdoctoral research.
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Research Assistants
+We are not hiring full-time Research Assistants at this moment.
 
+## Graduate Students
+We welcome graduate students keen on pursuing research with us. Do drop an email to Jia-Hou with your research interest(s) for further discussion.
+
+## Postdoctoral Scholars/Research Associates
+We do not have specific funding available for postdoctoral positions at the moment.<br><br>
+However, interested candidates are encouraged to reach out to Jia-Hou for a discussion on their research interests and potential pathways for funding. We’re open to collaborative efforts or joint grants to support postdoctoral research.
+
+## Undergraduates and Interns
+Undergraduate students pursuing an honours thesis are welcome to discuss supervision under Jia-Hou. <br><br>
+
+Additionally, we welcome motivated interns keen on gaining hands-on experience in neuroscience research, particularly in the domains of motivation, learning and memory.
 
 # Join As a Volunteer
 We're presently working hard to make great things happen. Please check back soon for ways you can contribute!
