@@ -25,7 +25,7 @@ However, interested candidates are encouraged to reach out to Jia-Hou for a disc
 ## Undergraduates and Interns
 Undergraduate students pursuing an honours thesis are welcome to discuss supervision under Jia-Hou. <br>
 
-Additionally, we welcome motivated interns keen on gaining hands-on experience in neuroscience research, particularly in the domains of motivation, learning and memory.
+We also welcome motivated interns keen on gaining hands-on experience in neuroscience research. Feel free to let us know of your interest! 
 
 # Join As a Volunteer
 We're presently working hard to make great things happen. Please check back soon for ways you can contribute!
