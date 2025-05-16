@@ -18,10 +18,10 @@ We are not hiring full-time Research Assistants at this moment.
 ## Graduate Students
 We welcome graduate students keen on pursuing research with us. Do drop an email to Jia-Hou with your research interest(s) for further discussion.
 
-## Postdoctoral Scholars/Research Associates
+## Postdoctoral Scholars / Research Associates
 We do not have specific funding available for postdoctoral positions at the moment.<br><br>
 However, interested candidates are encouraged to reach out to Jia-Hou for a discussion on their research interests and potential pathways for funding. We’re open to collaborative efforts or joint grants to support postdoctoral research. <br><br>
-For a list of local funding opportunities, please refer to - https://nusgs.nus.edu.sg/scholarships/
+For a list of local funding opportunities, please refer <a href="https://nusgs.nus.edu.sg/scholarships/"> here</a>
 
 ## Undergraduates and Interns
 Undergraduate students pursuing an honours thesis are welcome to discuss supervision under Jia-Hou. <br>
