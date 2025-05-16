@@ -2,6 +2,8 @@
 layout: default
 title: "Join Us!"
 permalink: /join/
+nav:
+  order: 6
 ---
 # Join Our Team!
 
