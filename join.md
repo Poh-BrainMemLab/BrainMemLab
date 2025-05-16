@@ -16,10 +16,8 @@ We welcome motivated interns who are eager to gain hands-on experience and backg
 ## Careers 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
-    <tr style="background-color: #749a88; color: white;">
       <th style="border: 1px solid black; padding: 10px; text-align: left;">Positions</th>
       <th style="border: 1px solid black; padding: 10px; text-align: left;">Description</th>
-    </tr>
   </thead>
   <tbody>
     <tr>
@@ -37,6 +35,7 @@ We welcome motivated interns who are eager to gain hands-on experience and backg
     </tr>
   </tbody>
 </table>
+
 
 # Join As a Volunteer
 We're presently working hard to make great things happen. Please check back soon for ways you can contribute!
