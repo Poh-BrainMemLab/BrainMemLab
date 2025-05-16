@@ -4,6 +4,7 @@ title: "Join Us!"
 permalink: /join/
 nav:
   order: 6
+  tooltip: Join our growing team
 ---
 # Join Our Team!
 
