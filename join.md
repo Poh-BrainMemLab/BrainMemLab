@@ -16,8 +16,8 @@ We welcome motivated interns who are eager to gain hands-on experience and backg
 ## Careers 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
-      <th style="border: 1px solid black; padding: 10px; text-align: left;">Positions</th>
-      <th style="border: 1px solid black; padding: 10px; text-align: left;">Description</th>
+      <th style="border: 1px solid black; padding: 10px; text-align: centre;">Positions</th>
+      <th style="border: 1px solid black; padding: 10px; text-align: centre;">Description</th>
   </thead>
   <tbody>
     <tr>
