@@ -8,7 +8,7 @@ nav:
 ---
 # Join the Team
 
-We are looking for driven individuals interested in the neuroscience of motivation, learning and curiosity to join our growing team! <br><br>
+We are looking for driven individuals interested in the neuroscience of motivation, learning and curiosity to join our growing team! <br>
 
 Interested individuals should contact Jia-Hou for discussion (jiahou.poh[at]nus.edu.sg).
 
@@ -23,7 +23,7 @@ We do not have specific funding available for postdoctoral positions at the mome
 However, interested candidates are encouraged to reach out to Jia-Hou for a discussion on their research interests and potential pathways for funding. We’re open to collaborative efforts or joint grants to support postdoctoral research.
 
 ## Undergraduates and Interns
-Undergraduate students pursuing an honours thesis are welcome to discuss supervision under Jia-Hou. <br><br>
+Undergraduate students pursuing an honours thesis are welcome to discuss supervision under Jia-Hou. <br>
 
 Additionally, we welcome motivated interns keen on gaining hands-on experience in neuroscience research, particularly in the domains of motivation, learning and memory.
 
