@@ -4,7 +4,7 @@ title: "Join Us"
 permalink: /join/
 nav:
   order: 5
-  tooltip: Join or contribute to our team
+  tooltip: Join as a member or volunteer!
 ---
 # Join the Team
 
