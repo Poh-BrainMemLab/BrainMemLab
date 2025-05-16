@@ -14,5 +14,5 @@ nav:
 
 {% include section.html %}
 
-<h4 style="text-align:center;"> Interested in joining our team? Check our <a href="https://poh-brainmemlab.github.io/BrainMemLab/join/">Join Us!</a>
- page for available positions!</h4>
+<h3 style="text-align:center;"> Interested in joining our team? Check our <a href="https://poh-brainmemlab.github.io/BrainMemLab/join/">Join Us!</a>
+ page for available positions!</h3>
