@@ -3,7 +3,7 @@ layout: default
 title: "Join Us"
 permalink: /join/
 nav:
-  order: 7
+  order: 5
   tooltip: Join or contribute to our team
 ---
 # Join the Team
