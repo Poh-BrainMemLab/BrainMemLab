@@ -34,6 +34,10 @@ research_assistant:
   description: Research Assistant
   icon: fa-solid fa-user-graduate 
 
+intern:
+  description: Intern
+  icon: fa-solid fa-user-book 
+
 # general
 
 link:
