@@ -10,4 +10,4 @@ links:
   scholar: https://scholar.google.com.sg/citations?user=zYrPBRYAAAAJ&hl=en&oi=ao
 ---
 
-Jia-Hou (JH) is a Research Assistant Professor at the [Center for Sleep and Cognition](https://medicine.nus.edu.sg/csc/), [National University of Singapore](https://nus.edu.sg/). He enjoys learning about how the brain learns, brewing coffee, and motivating his dogtoral-fellow, Melo<a href="https://poh-brainmemlab.github.io/BrainMemLab/members/MeloPoh.html"> to walk. 
+Jia-Hou (JH) is a Research Assistant Professor at the [Center for Sleep and Cognition](https://medicine.nus.edu.sg/csc/), [National University of Singapore](https://nus.edu.sg/). He enjoys learning about how the brain learns, brewing coffee, and motivating his dogtoral-fellow, <a href="https://poh-brainmemlab.github.io/BrainMemLab/members/MeloPoh.html">Melo to walk. 
