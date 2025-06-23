@@ -14,7 +14,7 @@ nav:
 {% capture text %}
 
 * Spontaneous fluctuations in brain states - associated with shifts in local and network activity patterns - can determine how information is processed and subsequently propagated to other brain regions. These fluctuations may reflect intrinsic variation in internal states (e.g. vigilance, arousal, emotional state, motivational state), as well as changes associated with alterations in brain anatomy (e.g. across the lifespan, aging, neurodegeneration).
-* Our work has demonstrated the contributions of brain activity stability and neuromodulation on memory formation. Currently, we are examining how different motivations (e.g reward approach, punishment avoidance) relate to distinct brain states, and shape subsequent information-seeking behaviours and memory formation.
+* Our work has demonstrated the contributions of brain activity stability and neuromodulation to memory formation. Currently, we are examining how different motivations (e.g reward approach, punishment avoidance) relate to distinct brain states, shaping subsequent information-seeking behaviours and memory formation.
 
 {% endcapture %}
 
@@ -45,8 +45,8 @@ nav:
 
 {% capture text %}
 
-* We regularly try to control our cognitive states, such as hyping ourselves up to go for a run or calming ourselves down after a major presentation. Individuals often employ a diverse range of strategies to regulate cognitive states, but with varying degrees of success. Neurofeedback, a process by which individuals receive real-time readouts of their brain activity as they explore strategies, is a tool to that could support them in acquiring cognitive state regulation.
-* Prior work has shown that humans can develop the remarkable ability to regulate activity across different brain regions, including deep brain structures implicated in motivation and learning. In ongoing work, we will examine if real-time fMRI neurofeedback can support individuals' regulation of cognitive states; as well as downstream effects on learning and memory formation.
+* We regularly try to control our cognitive states, such as hyping ourselves up to go for a run or calming ourselves down after a major presentation. Individuals often employ a diverse range of strategies to regulate cognitive states, but with varying degrees of success. Neurofeedback, a process by which individuals receive real-time readouts of their brain activity as they explore personally-relevant strategies, is a tool to that could support them in acquiring cognitive state regulation.
+* Prior work has shown that humans can develop the remarkable ability to regulate activity across different brain regions, including deep brain structures implicated in motivation and learning. In ongoing work, we will examine if real-time fMRI neurofeedback can support individuals' regulation of cognitive states; as well as the consequential effects on learning and memory formation.
 
 {% endcapture %}
 
