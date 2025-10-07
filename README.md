@@ -1,5 +1,6 @@
 
 # Poh-BrainMemLab's Website
+# Brain & Memory Lab: Neuroscience of Motivated Learning & Memory.
 
 Visit **[poh-brainmemlab.github.io/BrainMemLab](https://poh-brainmemlab.github.io/BrainMemLab)** 🚀
 
