@@ -2,7 +2,7 @@
 title: Motivational states, neuromodulatory systems, and adaptive memory. Read Dr. Poh's review paper on the Annual Reviews of Psychology!
 author: admin
 tags:
-  - general
+  - publication
 ---
 <p> Read Dr. Poh's paper on how motivational states engender distinct neural contexts for adaptive memory. </p>
 
