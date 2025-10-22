@@ -1,6 +1,6 @@
 ---
 title: Motivational states, neuromodulatory systems, and adaptive memory. Read Dr. Poh's review paper on the Annual Reviews of Psychology!
-author: admin
+author: general
 tags:
   - publication
 ---
