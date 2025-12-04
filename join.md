@@ -8,12 +8,6 @@ nav:
 ---
 # Join the Team
 
-<figure style="text-align: center;">
-  <img src="{{ '/images/DBM_team_nov25.png' | relative_url }}" alt="Our Team Banner" style="max-width: 100%; height: auto;">
-  <figcaption style="color:#666;"> 🧠 </figcaption>
-</figure>
-
-
 We are looking for driven individuals interested in the neuroscience of motivation, learning and curiosity to join our growing team! <br>
 
 Interested individuals should contact Jia-Hou for discussion (jiahou.poh[at]nus.edu.sg).
