@@ -1,6 +1,6 @@
 ---
 name: Kai Li Ng
-image: images/Kaili_BrainMem.jpg
+image: images/kai_nov25.jpeg
 role: research_assistant
 links:
   email: kaili.ng@nus.edu.sg
