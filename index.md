@@ -3,6 +3,13 @@ title: Poh's Brain & Memory Lab | Neuroscience of Motivated Learning and Memory
 description: The official website of the Brain & Memory Lab at NUS, led by Principal Investigator Dr. Jia-Hou Poh.
 ---
 
+<figure style="text-align: center;">
+  <img src="{{ '/images/DBM_team_nov25.png' | relative_url }}" alt="Our Team Banner" style="max-width: 100%; height: auto;">
+  <figcaption style="color:#666;"> November 2025 </figcaption>
+</figure>
+
+
+
 
 # Our Research
 
