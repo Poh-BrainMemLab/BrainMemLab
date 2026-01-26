@@ -5,9 +5,8 @@ description: The official website of the Brain & Memory Lab at NUS, led by Princ
 
 <figure style="text-align: center;">
   <img src="{{ '/images/full_team_2025.jpeg' | relative_url }}" alt="Our Team Banner" style="max-width: 100%; height: auto;">
-  <figcaption style="color:#666;"> The Dynamic Brain & Memory Lab, 2025</figcaption>
+  <figcaption style="color:#666;">The Dynamic Brain & Memory Lab, 2025</figcaption>
 </figure>
-
 
 # Our Research
 
