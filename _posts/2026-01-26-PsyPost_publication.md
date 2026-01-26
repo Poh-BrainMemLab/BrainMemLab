@@ -5,4 +5,6 @@ tags:
   - general
 ---
 
-<p> Check out the recent coverage of our prior work, <a href="https://www.psypost.org/motivation-acts-as-a-camera-lens-that-shapes-how-memories-form/">Motivation acts as a camera lens that shapes how memories form</a>!, by <i>PsyPost</i>. Thank you Karina for your comprehensive report.</p>
+<p> Check out <i>PsyPost's</i> recent coverage, <a href="https://www.psypost.org/motivation-acts-as-a-camera-lens-that-shapes-how-memories-form/">Motivation acts as a camera lens that shapes how memories form</a>, of our previous work. </p>
+  
+<p>Thank you Karina for your comprehensive report!</p>
