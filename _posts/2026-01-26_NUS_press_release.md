@@ -1,6 +1,6 @@
 ---
-title: [NUS Medicine Press Release] Not all memories are created equal: Study by NUS and Duke shows
-how motivation shapes our memory
+title: "[NUS Medicine Press Release] Not all memories are created equal: Study by NUS and Duke shows
+how motivation shapes our memory"
 author: admin
 tags:
   - general
