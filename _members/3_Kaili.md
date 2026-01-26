@@ -9,4 +9,4 @@ links:
 
 <p> She has also completed internships in defence psychological research (DSO National Laboratories), psycholinguistic research (B.L.I.P Lab), and mental health (Institute of Mental Health).  </p>
 
-<p> Kai Li's unique blend of experiences drives her interest to understand memory and learning, and how they may be modulated to support human thriving. Presently, she has been focused on integrating novel NLP methods into her methods.</p>
+<p> Kai Li's unique blend of experiences drives her interest to understand memory and learning, and how they may be modulated to support human thriving. Presently, she has been focused on integrating novel NLP methods into her analyses.</p>
