@@ -1,5 +1,5 @@
 ---
-title: [Publication] Read our review paper on the Annual Reviews of Psychology!
+title: "[Publication] Read our review paper on the Annual Reviews of Psychology!"
 author: admin
 tags:
   - publication
