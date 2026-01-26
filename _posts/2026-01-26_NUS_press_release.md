@@ -3,7 +3,7 @@ title: [NUS Medicine Press Release] Not all memories are created equal: Study by
 how motivation shapes our memory
 author: admin
 tags:
-  - highlights
+  - general
 ---
 
 <p> We are excited to have our work  "<a href="[url](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032525-031744)">Motivation as Neural Context for Adaptive Learning and Memory Formation</a>" featured in a press release by NUS Medicine. </p>
