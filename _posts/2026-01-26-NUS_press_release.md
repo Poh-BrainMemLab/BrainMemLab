@@ -6,8 +6,7 @@ tags:
   - general
 ---
 
-<p> We are excited to have our work <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032525-031744">
-    Motivation as Neural Context for Adaptive Learning and Memory Formation</a> </p>
+<p> We are excited to share about our recent press release with NUS Medicine! </p>
 
-Read the full press release <a href="https://medicine.nus.edu.sg/news/not-all-memories-are-created-equal-study-by-nus-and-duke-shows-how-motivation-shapes-our-memory/">here</a>!
-
+<p>Check out the full press release, <i></i><a href="https://medicine.nus.edu.sg/news/not-all-memories-are-created-equal-study-by-nus-and-duke-shows-how-motivation-shapes-our-memory/">Not all memories are created equal: Study by NUS and Duke shows
+how motivation shapes our memory</a>. Thank you NUS Medicine for sharing our work! </p>
