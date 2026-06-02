@@ -38,6 +38,10 @@ intern:
   description: Intern
   icon: fa-solid fa-user-graduate
 
+intern (alumnus):
+  description: Intern (Alumnus)
+  icon: fa-solid fa-user-graduate
+
 # general
 
 link:
