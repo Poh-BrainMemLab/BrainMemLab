@@ -291,6 +291,6 @@
   image: assets/papers/images/Poh_Adock_AnnualReviewsPsych_2025.png
   buttons:
   - type: pdf
-    link: assets/papers/images/Poh_Adcock_AnnualReviewsPsych_2025.pdf
+    link: assets/papers/pdf/Poh_Adcock_AnnualReviewsPsych_2025.pdf
   plugin: sources.py
   file: sources.yaml
