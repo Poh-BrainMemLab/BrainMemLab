@@ -113,3 +113,9 @@
   buttons:
     - type: pdf
       link: assets/papers/pdf/HonEtAl_ConCog_2016.pdf
+
+- id: https://doi.org/10.1146/annurev-psych-032525-031744
+  type: paper
+  buttons:
+    - type: pdf
+      link: assets/papers/images/Poh_Adcock_AnnualReviewsPsych_2025.pdf
