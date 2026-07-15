@@ -279,3 +279,17 @@
     link: assets/papers/pdf/HonEtAl_ConCog_2016.pdf
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.1146/annurev-psych-032525-031744
+  title: Motivation as Neural Context for Adaptive Learning and Memory Formation
+  authors:
+  - Jia-Hou Poh
+  - R. Alison Adcock
+  publisher: Annual Review of Psychology
+  date: '2026-01-20'
+  link: https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032525-031744
+  type: paper
+  buttons:
+  - type: pdf
+    link: assets/papers/images/Poh_Adcock_AnnualReviewsPsych_2025.pdf
+  plugin: sources.py
+  file: sources.yaml
