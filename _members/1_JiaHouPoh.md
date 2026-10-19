@@ -8,6 +8,7 @@ links:
   github: JiaHou-Poh 
   orcid: 0000-0002-1985-2110
   scholar: https://scholar.google.com.sg/citations?user=zYrPBRYAAAAJ&hl=en&oi=ao
+status: current
 ---
 
 Jia-Hou (JH) is a Research Assistant Professor at the [Center for Sleep and Cognition](https://medicine.nus.edu.sg/csc/), [National University of Singapore](https://nus.edu.sg/). He is a cognitive neuroscientist specializing in the neural mechanisms of human learning and memory.
