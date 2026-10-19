@@ -11,16 +11,13 @@ nav:
 
 ## Current Members
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and status != 'alumni'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and status != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="status == 'current'" %}
 
 {% include section.html %}
 
-## Alumni
+## Alumni & Friends
 
 {% include list.html data="members" component="portrait" filter="status == 'former'" %}
-
-{% include section.html %}
 
 <h3 style="text-align:center;"> 
   Interested in joining our team? Click <a href="https://poh-brainmemlab.github.io/BrainMemLab/join/">here</a> for more information!
