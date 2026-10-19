@@ -1,6 +1,6 @@
 ---
 name: Hu Yuanfei, Cheyenne
-image: images/yuanfei.jpeg
+image: images/8_yuanfei.jpeg
 role: intern
 status: current
 ---
