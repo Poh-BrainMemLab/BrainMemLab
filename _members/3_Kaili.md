@@ -4,6 +4,7 @@ image: images/kai_is_being_vain.jpeg
 role: research_assistant
 links:
   email: kaili.ng@nus.edu.sg
+status: current
 ---
 <p> Kai Li is a Research Assistant under the Dynamic Brain & Memory Lab. She received her Bachelor of Social Sciences (Honours) in Psychology from NTU in 2025. An aspiring researcher in cognitive neuroscience, Kai Li completed her Graduation Thesis on premature infants' cognitive control with Baby-LINC lab. Additionally, her undergraduate investigation with Early Cognition Lab received 3rd place in the Discover-URECA poster competition. </p>
 
