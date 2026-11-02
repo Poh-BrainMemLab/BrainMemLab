@@ -17,8 +17,8 @@ permissions:
 
 jobs:
   build-site:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-22.04
+  
     steps:
       - name: Debug dump
         uses: crazy-max/ghaction-dump-context@v2
