@@ -1,7 +1,7 @@
 ---
 name: Marcus Jude Wong Shyuan
 image: images/Marcus1.jpg
-role: intern
+role: former
 links:
    orcid: 0009-0002-6802-5960
 ---
